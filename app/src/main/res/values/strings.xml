@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="equipment_list">Equipment List</string>
+    <string name="equipment">Equipment</string>
+    <string name="Qty">Qty</string>
+    <string name="equipment">Equipment</string>
+    <string name="brand_manufacturer">Brand/Manufacturer:</string>
+</resources>
